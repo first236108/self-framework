@@ -1,0 +1,2 @@
+{"type":"encrypt","rid":"111","uid":"222","goodsId":"4982"}2017:12:08 09:15:49
+{"type":"decrypt","str":"curtvvzK_i0UAYVC2Dy2pGtV50Z4c68cMCETz9vCj74vtiJwrWbPUuTzDsIR3lUrSGZhOughEQ7W4JsQZLhs0Wiz5z4hy3aErcezFBRDC_NvZUskJFyBDuLISAgxXPFoc7gjdxpGsCVNwwzhp44BIcpryE91Sg70tscDESYELWY."}2017:12:08 09:16:17

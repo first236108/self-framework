@@ -1,0 +1,8 @@
+Array
+Array
+Array
+Array
+Array
+Array
+{"url":"http:\/\/www.scsj.net.cn\/scsj\/rest\/appuser\/address\/getMyDefaultAddress.shtml","content_type":"application\/json;charset=UTF-8","http_code":200,"header_size":377,"request_size":351,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.14,"namelookup_time":0,"connect_time":0.031,"pretransfer_time":0.031,"size_upload":175,"size_download":249,"speed_download":1778,"speed_upload":1249,"download_content_length":-1,"upload_content_length":175,"starttransfer_time":0.14,"redirect_time":0,"redirect_url":"","primary_ip":"180.76.167.146","certinfo":[],"primary_port":80,"local_ip":"192.168.0.109","local_port":51189}
+{"url":"http:\/\/www.scsj.net.cn\/scsj\/rest\/appuser\/address\/getMyDefaultAddress.shtml","content_type":"application\/json;charset=UTF-8","http_code":200,"header_size":377,"request_size":351,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.093,"namelookup_time":0.015,"connect_time":0.047,"pretransfer_time":0.047,"size_upload":175,"size_download":249,"speed_download":2677,"speed_upload":1881,"download_content_length":-1,"upload_content_length":175,"starttransfer_time":0.093,"redirect_time":0,"redirect_url":"","primary_ip":"180.76.167.146","certinfo":[],"primary_port":80,"local_ip":"192.168.0.109","local_port":51246}
